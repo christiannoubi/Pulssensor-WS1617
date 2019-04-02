@@ -3,11 +3,16 @@
 #include "Anzeige.h"
 #include "Ringpuffer.h"
 
+/*
+ * kdjbvbdfv jjbvöjbvjefbvjebvö
+ * sdfvjdflbvjfv
+ * ,d fvdfvvnlkefnblekj
+ * */
 class Pulssensor {
 
 private:
     vector<Anzeige*> anzeigen;
-    Ringpuffer<double >* ringpuffer;
+    Ringpuffer<double >* ringpuffer; // skdbvhfsvkhbsfjvs
 
 public:
     Pulssensor () {
@@ -31,3 +36,7 @@ public:
         anzeigen.push_back(&a);
     }
 };
+/*
+ * hsjhvcbsfkbvjfsbvfbvkfbv
+ * dfvhkdfjbjlnfvfvfdv
+ */s
