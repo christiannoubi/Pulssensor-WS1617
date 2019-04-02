@@ -8,8 +8,6 @@
  * sdfvjdflbvjfv
  * ,d fvdfvvnlkefnblekj
  * */
-
- skjbvfv
 class Pulssensor {
 
 private:
@@ -41,4 +39,4 @@ public:
 /*
  * hsjhvcbsfkbvjfsbvfbvkfbv
  * dfvhkdfjbjlnfvfvfdv
- */
+ */s
